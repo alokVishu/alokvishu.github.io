@@ -1,0 +1,1 @@
+import{_ as t,l as o,ap as s,k as a}from"./entry.c5ae9955.js";const c={},r={class:"layout bg-background"};function n(e,l){return a(),o("div",r,[s(e.$slots,"default")])}const d=t(c,[["render",n]]);export{d as default};
