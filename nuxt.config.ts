@@ -7,5 +7,8 @@ export default defineNuxtConfig({
   vuetify: {
     vuetifyOptions: './vuetify.config.ts' // <== you can omit it
   },
+  app: {
+    baseURL:'/alokvishu.github.io/'
+  },
   devtools: { enabled: false },  
 })
