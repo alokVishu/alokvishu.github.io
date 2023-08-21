@@ -9,7 +9,6 @@ export default defineVuetifyConfiguration({
         dark: false,
         colors: {
           background: '#f2f2f2',
-          
         }
       }
     }
